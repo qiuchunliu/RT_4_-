@@ -1,0 +1,4 @@
+r.status_code
+r.text
+r.encoding
+r.apparent_encoding
