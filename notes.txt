@@ -1,4 +1,5 @@
-r.status_code
-r.text
-r.encoding
-r.apparent_encoding
+r.status_code  表示返回状态，非200都是失败。
+r.text   字符串格式命书输出
+r.encoding   在请求头获取的编码格式，
+r.apparent_encoding   在文本中分析的格式
+r.content  二进制的形式
